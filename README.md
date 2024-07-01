@@ -11,5 +11,3 @@ To guarantee a functional and secure software application, I conducted multiple 
 A valuable resource for the future is the ability to view projects directly within the Eclipse web browser. This streamlines the development process.
 
 One of my key contributions I'd like to highlight is the Vulnerability Assessment Report. This report demonstrates my strong understanding of how to identify and interpret vulnerability data, a critical skill for maintaining robust security protocols.
-
-This revised version tailors the message to Artemis Financial's goals, emphasizes your security contributions, and clarifies technical details for a broader audience.
